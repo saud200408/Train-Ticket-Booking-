@@ -1,0 +1,38 @@
+body 
+{
+background-image: url('ebim.jpg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:100% 100%;
+}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 25px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
+}
+
+.image1{
+       margin-top:250px;
+}
+h1
+{
+color:F30881;
+}
+ footer {
+      background-color: #34495e;
+      padding: 11px;
+      text-align: center;
+      color: #fff;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
